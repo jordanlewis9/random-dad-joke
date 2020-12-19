@@ -4,7 +4,7 @@
   "description": "Dad jokes for everyone!",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "start index.html"
   },
   "author": "Jordan Lewis",
   "license": "ISC"
